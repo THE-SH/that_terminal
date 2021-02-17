@@ -103,21 +103,9 @@ static bool Allow_Windows_Bigger_Than_Desktop = false;
 
 
 
-unsigned VidCellWidth = 8, VidCellHeight = 12, WindowWidth  =129, WindowHeight = 40;
-//unsigned VidCellWidth = 9, VidCellHeight = 8, WindowWidth  =126, WindowHeight = 60;
-//unsigned VidCellWidth = 9, VidCellHeight = 14, WindowWidth  =126, WindowHeight = 35;
-//unsigned VidCellWidth = 9, VidCellHeight = 12, WindowWidth  =109, WindowHeight = 46;
-//unsigned VidCellWidth = 9, VidCellHeight = 10, WindowWidth  =126, WindowHeight = 48;
-//unsigned VidCellWidth = 8, VidCellHeight = 8, WindowWidth  =126, WindowHeight = 292;
-//unsigned VidCellWidth = 8, VidCellHeight = 16, WindowWidth  = 106, WindowHeight = 30;
-//unsigned VidCellWidth = 8, VidCellHeight = 14, WindowWidth  = 106, WindowHeight = 34;
-//static unsigned WindowWidth  = 80, WindowHeight = 25;
-//static float ScaleX = 3.f;
-//static float ScaleY = 3.5f;
+unsigned VidCellWidth = 16, VidCellHeight = 24, WindowWidth  =129, WindowHeight = 40;
 static float ScaleX = 2.f;
 static float ScaleY = 2.f;
-//static float ScaleX = 1.0f;
-//static float ScaleY = 1.0f;
 
 /* End settings */
 
